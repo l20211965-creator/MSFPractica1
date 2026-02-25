@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Practica1 Diseño de controladores
+message: Modelado de sistemas fisiologicos- Ing Biomedica
+type: software
+authors:
+  - given-names: Pamela
+    family-names: escobedo sandoval
+    email: l20211965@tectijuana.edu.mx
+identifiers:
+  - type: url
+    value: 'https://github.com/l20211965-creator/MSFPractica1'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/l20211965-creator/MSFPractica1'
+keywords:
+  - Diseño de controladores
+  - Circuito RLC
+  - Controlador I
+  - 'Modelado matematico '
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-02-26'
