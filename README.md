@@ -1,10 +1,11 @@
-\[!\[Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l20211965-creator/MSFPractica1)
 
 # Práctica 1: Diseño de controladores
 
 ## Información de la estudiante
 
-Nombres y Apellidos \[No. Control]; correo institucional
+Pamela Escobedo Sandoval 20211965 - l20211965@tectijuana.edu.mx
+
 
 Modelado de Sistemas Fisiológicos
 
